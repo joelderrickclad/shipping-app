@@ -1,0 +1,19 @@
+.grid-height
+{
+  height: 500px!important;
+}
+
+
+.card-style
+{
+padding:50px;  
+margin-left:50px;
+margin-right:50px;
+}
+
+.shipment-container {
+  padding-top: 100px;
+  margin-top:50px;
+  z-index: 3;
+}
+
